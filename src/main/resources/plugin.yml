@@ -1,0 +1,8 @@
+name: MagicStaff
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  magicstaff:
+    description: Get a magic staff with a subtle holding aura.
+    usage: /magicstaff
